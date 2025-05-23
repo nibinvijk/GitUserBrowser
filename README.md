@@ -2,12 +2,9 @@
 
 An iOS application that allows users to browse GitHub users and their repositories. This app demonstrates SwiftUI best practices, modern Swift concurrency, and clean architecture principles.
 
-![UserList](https://github.com/user-attachments/assets/ebac7109-40df-4bc8-b542-3e145f422244)
-
-![UserDetail](https://github.com/user-attachments/assets/b84f2597-1a04-4946-bfc3-c2130cb4aa08)
-
-![RepoScreen](https://github.com/user-attachments/assets/9427ba2a-e297-46cb-99e3-7a3fb75b778c)
-
+<img src="https://github.com/user-attachments/assets/ebac7109-40df-4bc8-b542-3e145f422244" width="25%" />&nbsp;&nbsp;&nbsp;
+<img src="https://github.com/user-attachments/assets/b84f2597-1a04-4946-bfc3-c2130cb4aa08" width="25%" />&nbsp;&nbsp;&nbsp;
+<img src="https://github.com/user-attachments/assets/9427ba2a-e297-46cb-99e3-7a3fb75b778c" width="25%" />
 
 ## Features
 
